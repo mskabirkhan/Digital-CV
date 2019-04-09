@@ -2,7 +2,7 @@ All the credit goes to Blacrock digital, Please find their details and installat
 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Preview from external website] (https://blackrockdigital.github.io/startbootstrap-resume/)**
 
 ## Status
 

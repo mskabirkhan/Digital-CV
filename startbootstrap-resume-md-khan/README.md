@@ -1,4 +1,4 @@
-All the credit goes to Blacrock digital, Please find their details and installation process below!
+All Credit goes to Blacrock digital, Please find their details and installation process below!
 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)

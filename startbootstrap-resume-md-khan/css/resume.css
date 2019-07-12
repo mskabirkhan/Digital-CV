@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Resume v5.0.5 (https://startbootstrap.com/template-overviews/resume)
+ * Start Bootstrap - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
@@ -7,7 +7,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #DFD297;
+  color: #868e96;
 }
 
 @media (min-width: 992px) {
@@ -26,7 +26,7 @@ h6 {
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: uppercase;
-  color: #DFD297;
+  color: #343a40;
 }
 
 h1 {
@@ -58,7 +58,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #6B5B95;
+  background-color: #495057;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -80,7 +80,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #DFD297;
+  color: #BD5D38;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -90,7 +90,7 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #DFD297;
+  outline-color: #d48a6e;
 }
 
 @media (min-width: 992px) {
@@ -106,7 +106,7 @@ p.lead {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 14rem;
+    width: 17rem;
     height: 100vh;
   }
   #sideNav .navbar-brand {
@@ -117,9 +117,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 15rem;
-    max-height: 20rem;
-    border: 0.2rem solid rgba(255, 255, 255, 0.2);
+    max-width: 10rem;
+    max-height: 10rem;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
   #sideNav .navbar-collapse {
     display: -webkit-box;
@@ -176,7 +176,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #DFD297 !important;
+  background-color: #BD5D38 !important;
 }
 
 .text-primary {
@@ -184,7 +184,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-  color: #DFD297;
+  color: #BD5D38;
 }
 
 a:hover, a:focus, a:active {
